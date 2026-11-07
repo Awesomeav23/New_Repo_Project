@@ -9,6 +9,22 @@ Built just for fun over 16 weeks. See [ROADMAP.md](ROADMAP.md) for the plan.
 - [User stories](docs/user-stories.md)
 - [Screens](docs/screens.md)
 
+## How we work
+- **Claude drafts** wireframes, the database diagram and the API endpoint list.
+- **I review** the drafts and note changes.
+- **I build** by typing the commands and code myself, with step-by-step guidance in chat.
+
+## Next session (about 2.5–3 hrs)
+- [ ] **Review drafts** (20 min): 06 Itinerary + 10 Expenses wireframes, database diagram
+- [ ] **Check tools** (15 min): Python 3.12+, Node 20+, Docker Desktop, VS Code (`python3 --version`, `node -v`, `docker -v`)
+- [ ] **Project folders** (10 min): `backend/`, `frontend/`, `.gitignore`, `.env.example`
+- [ ] **Database in Docker** (30 min): `docker-compose.yml` with Postgres (port 5437) + Redis, `docker compose up -d`, connect to prove it works
+- [ ] **Django project** (45 min): virtual environment, install Django + DRF + psycopg + django-environ, settings from `.env`, connect to Postgres, `migrate`, admin user, log into `/admin`
+- [ ] **First model** (30 min): `trips` app with the Trip model, `makemigrations` + `migrate`, register in admin, create a test trip
+- [ ] **Commit + push by hand** (10 min): `git add`, `git commit`, `git push`
+
+Note: Day 2's design work becomes review only, and Day 3's setup starts early. That puts us ahead of the roadmap.
+
 ## Progress log
 
 | Date | Week / Day | Done |
