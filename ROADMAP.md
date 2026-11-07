@@ -40,7 +40,7 @@ Working on weekends too? Pull work forward from later weeks.
 ## Month 1: Foundation + trips
 
 ### Week 1: Design + project setup
-- [ ] **Day 1:** sketch every screen (wireframes), write user stories → `docs/`
+- [x] **Day 1:** sketch every screen (wireframes), write user stories → `docs/`
 - [ ] **Day 2:** database diagram (all tables and relationships), API endpoint sketch
 - [ ] **Day 3:** monorepo, Docker Compose (Postgres + Redis), Django project, `.env` config, pre-commit hooks (ruff, black)
 - [ ] **Day 4:** React + TS + Vite + Tailwind, routing, layout shell, basic UI components (Button, Input, Modal, Card)
