@@ -13,4 +13,4 @@ Built just for fun over 16 weeks. See [ROADMAP.md](ROADMAP.md) for the plan.
 
 | Date | Week / Day | Done |
 |---|---|---|
-| 2026-11-06 | W1 · Day 1 | Roadmap, user stories, screen list, dashboard + trip card wireframe, trip overview wireframe |
+| 2026-11-06 | W1 · Day 1 | Roadmap, user stories, screen list, trip overview wireframe (other screens tracked in docs/screens.md) |

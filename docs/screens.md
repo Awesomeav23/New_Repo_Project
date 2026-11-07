@@ -1,9 +1,31 @@
 # Screens
 
 Every screen in the app and what goes on it. Sketch each one (paper or Excalidraw), then save
-the wireframes to `docs/wireframes/` (e.g. `03-trip-overview.png`).
+the wireframes to `docs/wireframes/` (e.g. `06-itinerary.png`).
 
 Story IDs refer to `user-stories.md`.
+
+## Wireframe status
+
+Sketch each screen before the week its feature is built.
+
+| # | Screen | Wireframe | Sketch by |
+|---|---|---|---|
+| 01 | Landing | ☐ To do | Week 16 |
+| 02 | Sign up / Log in / Reset | ☐ To do | Week 2 |
+| 03 | My trips dashboard | ☐ To do (re-add from earlier sketch) | Week 3 |
+| 04 | Create / edit trip | ☐ To do | Week 3 |
+| 05 | Trip overview | ✅ [Done](wireframes/05-trip-overview.png) | — |
+| 06 | Itinerary | ☐ To do (next, before Day 2) | Week 5 |
+| 07 | Itinerary item | ☐ To do | Week 5 |
+| 08 | Map | ☐ To do | Week 7 |
+| 09 | Polls | ☐ To do | Week 8 |
+| 10 | Expenses | ☐ To do (next, before Day 2) | Week 9 |
+| 11 | Packing | ☐ To do | Week 12 |
+| 12 | Files | ☐ To do | Week 12 |
+| 13 | Members + invite | ☐ To do | Week 4 |
+| 14 | Join trip | ☐ To do | Week 4 |
+| 15 | Profile + settings | ☐ To do | Week 3 |
 
 ## Public
 
